@@ -1,7 +1,11 @@
 # Comment 
-tempfile*.txt
-#File on Mac
-.DS_Store
+#tempfile*.txt
+# Windows image file caches
+Thumbs.db
+# Folder config file
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 *.zip
 *.gz
 log/*.log
